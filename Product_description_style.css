@@ -1,0 +1,56 @@
+
+button.navigation{
+        
+        padding: 15px 60px;
+        margin: 0 5px;
+        background-color: #525251;
+        color: white;
+        border-radius: 7px;
+        font-family: helvetica;
+        
+    }
+
+    button.arrow{
+        background-color: #525251;
+        color: white;
+        font: bold;
+        border-radius: 7px;
+        font-family: helvetica;
+    }
+        
+    select.select1{
+        padding: 15px 60px;
+        margin: 0 5px;
+        background-color: #525251;
+        color: white;
+        border-radius: 7px;
+        font-family: helvetica;        
+    }
+     
+    body{
+    
+        font-family: helvetica;
+        background-color: #F8F3EA;
+
+    }
+
+    figure{
+        
+        display: inline-block;
+        margin: 5px;
+        text-align: center;
+        font-family: helvetica;
+    }
+
+    img.main {
+        
+        height: 400px;
+        width: 400px;
+        
+}
+
+    img.recommended {
+        
+        height: 250px;
+        width: 250px;
+}

@@ -1,0 +1,34 @@
+.tablestyle {
+            position: absolute;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%);
+            
+            font-family: helvetica;
+}
+.pageBreakers{
+    font-family: serif;
+    color: darkgrey;
+    font-size: 20pt;
+}
+
+td{
+    padding:0 15px;
+}
+
+a.btn{
+    text-decoration: none;
+    font-family: helvetica ;
+    padding: 15px 60px;
+    border-radius: 7px;
+    margin: 0 5px;
+}
+.primary{
+    background-color: #525251;
+    color: white;
+}
+.secondary{
+    background-color: lightgray;
+    color: #525251;
+}
+
